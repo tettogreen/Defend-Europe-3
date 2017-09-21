@@ -1,0 +1,9 @@
+{
+"TOTAL_MEMORY": 268435456,
+"dataUrl": "tempO.data.unityweb",
+"asmCodeUrl": "tempO.asm.code.unityweb",
+"asmMemoryUrl": "tempO.asm.memory.unityweb",
+"asmFrameworkUrl": "tempO.asm.framework.unityweb",
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20"
+}

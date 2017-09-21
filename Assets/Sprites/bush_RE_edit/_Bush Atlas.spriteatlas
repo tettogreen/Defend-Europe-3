@@ -1,0 +1,49 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &4343727234628468602
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_Name: _Bush Atlas
+  m_EditorData:
+    textureSettings:
+      anisoLevel: 1
+      compressionQuality: 50
+      maxTextureSize: 2048
+      textureCompression: 0
+      colorSpace: 1
+      filterMode: 1
+      generateMipMaps: 1
+      readable: 0
+      crunchedCompression: 0
+    platformSettings: []
+    packingParameters:
+      paddingPower: 2
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 1
+      enableTightPacking: 1
+    packedHash:
+      serializedVersion: 2
+      Hash: 67073ad25ab76736edd9086ef0ff829b
+    variantMultiplier: 1
+    bindAsDefault: 1
+    finalFormat: 4
+    hashString: 67073ad25ab76736edd9086ef0ff829b
+    totalSpriteSurfaceArea: 265958
+    packables:
+    - {fileID: 2800000, guid: 832ce82f40bed4cec86bdc70d9c095ee, type: 3}
+    - {fileID: 2800000, guid: 7a2d350b64ed34987b8ff31f46bf6864, type: 3}
+    packedSpriteRenderDataKeys:
+    - 7a2d350b64ed34987b8ff31f46bf6864: 21300000
+    - 832ce82f40bed4cec86bdc70d9c095ee: 21300000
+  m_MasterAtlas: {fileID: 0}
+  m_PackedSprites:
+  - {fileID: 21300000, guid: 7a2d350b64ed34987b8ff31f46bf6864, type: 3}
+  - {fileID: 21300000, guid: 832ce82f40bed4cec86bdc70d9c095ee, type: 3}
+  m_PackedSpriteNamesToIndex:
+  - RE_edit_bush_alone_with_OUT_shadow
+  - RE_edit_ROUND_bush_alone_with_OUT_shadow
+  m_Tag: _Bush Atlas
+  m_IsVariant: 0
